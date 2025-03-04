@@ -48,6 +48,19 @@ st.markdown("""
     </div>
     """, unsafe_allow_html=True)
 
+import streamlit as st
+import qrcode
+from PIL import Image
+
+# URL de ton application Streamlit
+url = "https://nom-du-projet.streamlit.app/"
+
+# Générer et sauvegarder le QR Code
+qr = qrcode.make(url)
+qr.save("qr_code.png")
+
+# Afficher le QR Code sur Streamlit
+st.image("qr_code.png", caption="Scannez ce QR Code pour accéder au tableau de bord", use_column_width=True)
 # Description du projet dans une section stylisée
 st.markdown("""
     <div class="section">
