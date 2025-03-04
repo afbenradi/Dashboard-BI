@@ -60,8 +60,7 @@ qr = qrcode.make(url)
 qr.save("qr_code.png")
 
 # Afficher le QR Code sur Streamlit
-st.image("qr_code.png", caption="Scannez ce QR Code pour accéder au tableau de bord", use_column_width=True)
-# Description du projet dans une section stylisée
+st.image("qr_code.png", caption="Scannez ce QR Code pour accéder au tableau de bord", use_container_width=True)# Description du projet dans une section stylisée
 st.markdown("""
     <div class="section">
         <h2>À propos de ce projet</h2>
