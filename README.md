@@ -23,15 +23,19 @@ L’objectif est d’aider les décisionnaires RH à mieux comprendre les motifs
 - Indicateurs clés sur le turnover  
 - Graphiques interactifs (barres, secteurs, scatter plots)  
 
+
 **Prédiction du Turnover**  
 - Probabilité qu’un employé quitte l’entreprise  
 - Modèle de régression logistique  
 
+
 **Visualisation des Détails**  
 - Analyse individuelle des employés  
 
+
  **Explications SHAP**  
 - Impact des différentes variables sur la prédiction  
+
 
  **Recommandations RH**  
 - Stratégies pour réduire le turnover  
