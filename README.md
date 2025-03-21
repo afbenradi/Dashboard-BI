@@ -17,22 +17,22 @@ L’objectif est d’aider les décisionnaires RH à mieux comprendre les motifs
 - **Streamlit** : Création de l’interface utilisateur interactive  
 - **GitHub** : Hébergement et gestion du code source  
 
-## ⚙️ Fonctionnalités Principales  
+## Fonctionnalités Principales  
 
-🎯 **Dashboard KPI**  
-📊 Indicateurs clés sur le turnover  
-📈 Graphiques interactifs (barres, secteurs, scatter plots)  
+**Dashboard KPI**  
+- Indicateurs clés sur le turnover  
+- Graphiques interactifs (barres, secteurs, scatter plots)  
 
-🤖 **Prédiction du Turnover**  
-🔮 Probabilité qu’un employé quitte l’entreprise  
-📊 Modèle de régression logistique  
+**Prédiction du Turnover**  
+- Probabilité qu’un employé quitte l’entreprise  
+- Modèle de régression logistique  
 
-🔍 **Visualisation des Détails**  
-👤 Analyse individuelle des employés  
+**Visualisation des Détails**  
+- Analyse individuelle des employés  
 
-📡 **Explications SHAP**  
-🔎 Impact des différentes variables sur la prédiction  
+ **Explications SHAP**  
+- Impact des différentes variables sur la prédiction  
 
-💡 **Recommandations RH**  
-✔️ Stratégies pour réduire le turnover  
+ **Recommandations RH**  
+- Stratégies pour réduire le turnover  
 
